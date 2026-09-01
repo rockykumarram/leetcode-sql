@@ -1,17 +1,17 @@
-## 🧠 Approach
+# 🧠 LeetCode SQL Solutions
 
-- Focus on writing **clean and optimized SQL queries**
-- Use **joins, aggregations, and filtering** effectively
-- Maintain **readable and structured code**
+This repository contains my solutions to LeetCode SQL problems.
 
----
+## 📂 Structure
+- Easy/
+- Medium/ (coming soon)
+- Hard/ (coming soon)
 
-## 🚀 Goals
+## ✅ Solved Problems
 
-- Solve all SQL problems on LeetCode
-- Improve query optimization skills
-- Build a strong portfolio for interviews
-
+### 🟢 Easy
+- [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+→ [Solution](Easy/175_combine_two_tables.sql)
 ---
 
 ## 👨‍💻 Author
