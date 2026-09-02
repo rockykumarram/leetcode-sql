@@ -1,20 +1,22 @@
-# 🧠 LeetCode SQL Solutions
+# 🧠 LEETCODE SQL SOLUTIONS
 
 This repository contains my solutions to LeetCode SQL problems.
 
-## 📂 Structure
-- Easy/
-- Medium/ (coming soon)
-- Hard/ (coming soon)
-
-## ✅ Solved Problems
+---
+## ✅ SOLVED PROBLEMS
 
 ### 🟢 Easy
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
-→ [Solution](Easy/175_combine_two_tables.sql)
+--> [Solution](Easy/175_combine_two_tables.sql)
+
+### 🟡 Medium
+- [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
+--> [Solution](Medium/176_second_highest_salary.sql)
+
+### 🔴 Hard
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 AUTHOR
 
 - GitHub: https://github.com/rockykumarram
 
