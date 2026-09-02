@@ -12,7 +12,8 @@ This repository contains my solutions to LeetCode SQL problems.
 ### 🟡 Medium
 - [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)
 --> [Solution](Medium/176_second_highest_salary.sql)
-
+- [178. Rank Score](https://leetcode.com/problems/rank-scores/)
+--> [Solution](Medium/178_rank_score)
 ### 🔴 Hard
 ---
 
